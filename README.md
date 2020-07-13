@@ -1,16 +1,24 @@
-### Hi there 👋
+# Shawn Rahul D'Souza
 
-<!--
-**shawnd29/shawnd29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawn-dsouza/)](https://www.linkedin.com/in/shawn-dsouza/) 
+<a href="https://shawndsouza29.wixsite.com/portfolio"><img alt="Online Portfolio" src="https://img.shields.io/badge/view-portfolio-orange"></a>
 
-Here are some ideas to get you started:
+---
+## Hello 👋
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It's really great to reach out! My name is Shawn, a data and analytics enthusiast and always excited to learn on all things data when I am not busy cooking something interesting.
+
+
+> ## Things about me 
+
+
+- :computer: I predominately code in Python, but love pulling my data through SQL.
+- 🌱 I’m currently building on my concepts in Data Science and analytics.
+- 👯 I’m aiming to build my skills through projects based on Machine Learning.
+- 💬 Ask me about anything. If I didn't know maybe I will learn something new!
+
+- ⚡ Fun fact: Cooking and bathroom singing are some of my biggest passions.
+
+
+Do take a look at my projects and let me know if there is something that catches your eye.
