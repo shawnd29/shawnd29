@@ -7,7 +7,7 @@
 ## Hello 👋
 ---
 
-It's really great to reach out! My name is Shawn, a data and analytics enthusiast and always excited to learn on all things data when I am not busy cooking something interesting.
+It's really great to reach out! My name is Shawn, a data and analytics enthusiast and always excited to learn on all things data; when I am not busy cooking something interesting.
 
 
 > ## Things about me 
