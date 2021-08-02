@@ -13,10 +13,10 @@ It's really great to reach out! My name is Shawn, a data and analytics enthusias
 > ## Things about me 
 
 
-- :computer: I predominately code in Python, but love pulling my data through SQL.
-- 🌱  I’m currently building on my concepts in Data Science and analytics.
-- 👯  I’m aiming to build my skills through projects based on Machine Learning.
-- 💬  Ask me about anything. If I didn't know maybe I will learn something new!
+- :computer: &nbsp; I predominately code in Python, but love pulling my data through SQL.
+- 🌱  &nbsp; I’m currently building on my concepts in Data Science and analytics.
+- 👯  &nbsp; I’m aiming to build my skills through projects based on Machine Learning.
+- 💬  &nbsp; Ask me about anything. If I didn't know maybe I will learn something new!
 
 - ⚡ Fun fact: Cooking and bathroom singing are some of my biggest passions.
 
