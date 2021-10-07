@@ -18,7 +18,7 @@ It's really great to reach out! My name is Shawn, a data and analytics enthusias
 - 👯  &nbsp; I’m aiming to build my skills through projects based on Machine Learning.
 - 💬  &nbsp; Ask me about anything. If I didn't know maybe I will learn something new!
 
-- ⚡ Fun fact: Cooking and bathroom singing are some of my biggest passions.
+- ⚡ Fun fact: Cooking is one of my biggest passions.
 
 
 Do take a look at my projects and let me know if there is something that catches your eye.
